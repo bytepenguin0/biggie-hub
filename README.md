@@ -9,7 +9,7 @@ The **best** RF 24 script on the market. Our script hub is designed to give you 
 - **Extensive Script Library**: Access a wide variety of scripts.
 - **Regular Updates**: Frequent updates ensuring all of the features are up to date.
 
-### Note:
+#### Note:
 - Make sure your script executor is up-to-date for best performance and security.
 - Some features may require configuration based on the game you are playing.
 

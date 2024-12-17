@@ -1,7 +1,6 @@
-**Small Update**
+**Hotfix**
 ```
-[+] Fixed curving for longer distances
-[+] Added a hide/show button for the UI on mobile
+[+] Fixed writefile, readfile and isfile crashing on mobile
 ```
 
 ||@everyone||

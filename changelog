@@ -1,6 +1,7 @@
-**Hotfix**
+**Small Update**
 ```
-[+] Fixed writefile, readfile and isfile crashing on mobile
+[+] Fixed writefile, readfile and isfile issues
+[+] Fixed volume on sounds
 ```
 
 ||@everyone||

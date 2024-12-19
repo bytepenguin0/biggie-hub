@@ -1,7 +1,7 @@
 **Small Update**
 ```
-[+] Fixed writefile, readfile and isfile issues
-[+] Fixed volume on sounds
+[+] Fixed ball flying out of the goal when scoring a goal
+[+] Fixed volume on sounds (again)
 ```
 
 ||@everyone||

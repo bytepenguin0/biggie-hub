@@ -1,7 +1,8 @@
-**Small Update**
+# BIGGIE HUB 2.1
 ```
-[+] Fixed ball flying out of the goal when scoring a goal
-[+] Fixed volume on sounds (again)
+[+] New power method, undetected once again
+[+] Added all celebs (doesn't work when spawning yet)
+[-] Removed sounds as they got patched
 ```
 
 ||@everyone||

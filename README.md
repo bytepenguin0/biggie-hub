@@ -1,4 +1,4 @@
-# BIGGIE HUB 2.6
+# BIGGIE HUB 2.7
 
 The **best** RF 24 script on the market. Our script hub is designed to give you the most control, efficiency, and functionality possible.
 
